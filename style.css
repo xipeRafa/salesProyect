@@ -128,6 +128,7 @@ header {
   gap: 1.5rem;
   align-items: center;
   background-color: var(--bg-color-l);
+  margin-bottom: 40px;
 }
 .about-img img {
   max-width: 80%;
@@ -157,12 +158,12 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding-bottom: 40px;
+  padding-bottom: 0px;
 }
 .box {
   position: relative;
   margin-top: 2rem;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   height: auto;
   display: flex;
   flex-direction: column;
@@ -230,6 +231,7 @@ header {
   align-items: center;
   justify-content: space-around;
   border-top:1.4px solid var(--live-orange-color) ;
+  margin-top: 40px;
 }
 .connect-text span {
   color: var(--live-orange-color);
