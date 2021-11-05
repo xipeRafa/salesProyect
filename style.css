@@ -100,10 +100,12 @@ header {
 .home-img img {
   width: 80%;
   border-radius: 50%;
+  padding-top: 20px;
 }
 .home-text h1 {
   font-size: var(--big-font);
   color: var(--live-orange-color);
+  padding-top: 20px;
 }
 .title-img{
   width: 60%;
